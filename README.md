@@ -3,6 +3,9 @@
 Descarrega l'última versió: [VoleiSantpedor.apk](https://github.com/dpericas/voleimanagerV/raw/main/VoleiSantpedor.apk)
 (les apps instal·lades s'actualitzen soles: avisen en obrir-les).
 
+## 01.05.00 — 2026-11-16
+Versió de l'app visible a Equips i decoració de dates senyalades (Nadal, Pasqua, Castanyada, Festa Major…)
+
 ## 01.04.01 — 2026-11-16
 Plantilla de l'Infantil V: dorsal correcte d'Arya Gil (91)
 
