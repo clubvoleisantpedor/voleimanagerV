@@ -3,6 +3,9 @@
 Descarrega l'última versió: [VoleiSantpedor.apk](https://github.com/dpericas/voleimanagerV/raw/main/VoleiSantpedor.apk)
 (les apps instal·lades s'actualitzen soles: avisen en obrir-les).
 
+## 01.06.00 — 2026-11-17
+Pantalla gran per al públic (marcador per a tauleta o TV) i cotxes compartits per als partits a fora
+
 ## 01.05.00 — 2026-11-16
 Versió de l'app visible a Equips i decoració de dates senyalades (Nadal, Pasqua, Castanyada, Festa Major…)
 
