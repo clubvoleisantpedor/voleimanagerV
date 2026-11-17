@@ -3,6 +3,9 @@
 Descarrega l'última versió: [VoleiSantpedor.apk](https://github.com/dpericas/voleimanagerV/raw/main/VoleiSantpedor.apk)
 (les apps instal·lades s'actualitzen soles: avisen en obrir-les).
 
+## 01.10.00 — 2026-11-17
+Partits d'avui, partits dels equips ★ al calendari del mòbil, notes de l'entrenador i Guia del vòlei per a tothom
+
 ## 01.09.01 — 2026-11-17
 Convocatòries publicades a l'app (tothom les veu a l'Agenda) i botó de convocar només per a entrenadors i junta
 
