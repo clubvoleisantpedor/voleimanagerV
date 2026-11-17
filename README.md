@@ -3,6 +3,9 @@
 Descarrega l'última versió: [VoleiSantpedor.apk](https://github.com/dpericas/voleimanagerV/raw/main/VoleiSantpedor.apk)
 (les apps instal·lades s'actualitzen soles: avisen en obrir-les).
 
+## 01.08.00 — 2026-11-17
+Zona d'editors: entrenadors i junta publiquen avisos, activitats, partits amistosos i horaris des de l'app
+
 ## 01.07.00 — 2026-11-17
 Widget a la pantalla d'inici, activitats del club, partits dels equips no federats, so i vibració al marcador, Racó de famílies i neteja dels cotxes
 
