@@ -3,6 +3,9 @@
 Descarrega l'última versió: [VoleiSantpedor.apk](https://github.com/dpericas/voleimanagerV/raw/main/VoleiSantpedor.apk)
 (les apps instal·lades s'actualitzen soles: avisen en obrir-les).
 
+## 01.13.00 — 2026-11-17
+Celebració de victòries ★ · Ratxes 🔥 · Aplaudiments als directes · Mode drama al marcador · La Pili, mascota del club · Sorpreses amagades
+
 ## 01.12.00 — 2026-11-17
 Intro de Nadal i Pasqua · Què hi ha de nou · Comparteix l'app amb QR · Resultats al web · Fotos a la galeria des de l'app · Còpia de seguretat · App en castellà i anglès · Seccions plegables a Club
 
