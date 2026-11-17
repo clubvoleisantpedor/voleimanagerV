@@ -3,6 +3,9 @@
 Descarrega l'última versió: [VoleiSantpedor.apk](https://github.com/dpericas/voleimanagerV/raw/main/VoleiSantpedor.apk)
 (les apps instal·lades s'actualitzen soles: avisen en obrir-les).
 
+## 01.08.01 — 2026-11-17
+Equips V i N diferenciats als horaris, la zona d'editors, l'agenda, el widget i els cotxes
+
 ## 01.08.00 — 2026-11-17
 Zona d'editors: entrenadors i junta publiquen avisos, activitats, partits amistosos i horaris des de l'app
 
