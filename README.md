@@ -3,6 +3,9 @@
 Descarrega l'última versió: [VoleiSantpedor.apk](https://github.com/dpericas/voleimanagerV/raw/main/VoleiSantpedor.apk)
 (les apps instal·lades s'actualitzen soles: avisen en obrir-les).
 
+## 01.15.00 — 2026-11-17
+La Pili nova · Bombo, xiulet i càntic · Stickers de WhatsApp i fons de pantalla · Jocs i rànquing
+
 ## 01.14.00 — 2026-11-17
 Versió per a iPhone (web del club) · Calendari imprimible · Guia de pavellons · Sorteig del saque
 
