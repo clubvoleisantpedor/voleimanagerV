@@ -3,6 +3,9 @@
 Descarrega l'última versió: [VoleiSantpedor.apk](https://github.com/dpericas/voleimanagerV/raw/main/VoleiSantpedor.apk)
 (les apps instal·lades s'actualitzen soles: avisen en obrir-les).
 
+## 01.18.00 — 2026-11-17
+Club reorganitzat · Missatge de propers partits · Widget i fotomaton de la Pili · Reaccions i celebració de set · Compte enrere · Memory i ruleta · Sons nous
+
 ## 01.17.02 — 2026-11-17
 Com arribar a la guia de pavellons · Pavelló de casa corregit
 
