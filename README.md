@@ -3,6 +3,9 @@
 Descarrega l'última versió: [VoleiSantpedor.apk](https://github.com/dpericas/voleimanagerV/raw/main/VoleiSantpedor.apk)
 (les apps instal·lades s'actualitzen soles: avisen en obrir-les).
 
+## 01.17.01 — 2026-11-17
+Correcció: el mapa de pavellons ja es veu
+
 ## 01.17.00 — 2026-11-17
 Mapa de pavellons · Escalfament guiat · Els nostres valors
 
