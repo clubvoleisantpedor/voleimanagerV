@@ -3,6 +3,9 @@
 Descarrega l'última versió: [VoleiSantpedor.apk](https://github.com/dpericas/voleimanagerV/raw/main/VoleiSantpedor.apk)
 (les apps instal·lades s'actualitzen soles: avisen en obrir-les).
 
+## 01.22.01 — 2026-11-19
+La benvinguda es llegeix en mode fosc
+
 ## 01.22.00 — 2026-11-19
 Benvinguda, «Els meus partits», partits fora sense cobertura, ruleta per equips i rol administrador
 
