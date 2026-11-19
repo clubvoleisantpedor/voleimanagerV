@@ -3,6 +3,9 @@
 Descarrega l'última versió: [VoleiSantpedor.apk](https://github.com/dpericas/voleimanagerV/raw/main/VoleiSantpedor.apk)
 (les apps instal·lades s'actualitzen soles: avisen en obrir-les).
 
+## 01.23.00 — 2026-11-19
+Jugadors/es i famílies, avisos només per a l'equip i eines d'administració
+
 ## 01.22.01 — 2026-11-19
 La benvinguda es llegeix en mode fosc
 
