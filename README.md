@@ -3,6 +3,9 @@
 Descarrega l'última versió: [VoleiSantpedor.apk](https://github.com/dpericas/voleimanagerV/raw/main/VoleiSantpedor.apk)
 (les apps instal·lades s'actualitzen soles: avisen en obrir-les).
 
+## 01.21.00 — 2026-11-19
+Llista de directes a Seguir un partit · Publicacions a WhatsApp
+
 ## 01.20.00 — 2026-11-17
 Avisos urgents · PDF als avisos · Fotos proposades · Comandes d'equipació
 
