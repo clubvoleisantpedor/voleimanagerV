@@ -3,6 +3,9 @@
 Descarrega l'última versió: [VoleiSantpedor.apk](https://github.com/dpericas/voleimanagerV/raw/main/VoleiSantpedor.apk)
 (les apps instal·lades s'actualitzen soles: avisen en obrir-les).
 
+## 01.26.01 — 2026-11-19
+Aprovar sol·licituds de família, secció d'entrenadors i la intro no atura la música
+
 ## 01.26.00 — 2026-11-19
 La Pili i l'app en verd i negre, els colors del club
 
