@@ -3,6 +3,9 @@
 Descarrega l'última versió: [VoleiSantpedor.apk](https://github.com/dpericas/voleimanagerV/raw/main/VoleiSantpedor.apk)
 (les apps instal·lades s'actualitzen soles: avisen en obrir-les).
 
+## 01.27.00 — 2026-11-19
+Dreceres de la icona, icona temàtica i plantilles dels equips no federats
+
 ## 01.26.01 — 2026-11-19
 Aprovar sol·licituds de família, secció d'entrenadors i la intro no atura la música
 
