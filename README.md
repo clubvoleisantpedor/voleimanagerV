@@ -3,6 +3,9 @@
 Descarrega l'última versió: [VoleiSantpedor.apk](https://github.com/dpericas/voleimanagerV/raw/main/VoleiSantpedor.apk)
 (les apps instal·lades s'actualitzen soles: avisen en obrir-les).
 
+## 01.28.00 — 2026-11-19
+Giny «Directe» i ajudant de rotacions al marcador
+
 ## 01.27.00 — 2026-11-19
 Dreceres de la icona, icona temàtica i plantilles dels equips no federats
 
