@@ -3,6 +3,9 @@
 Descarrega l'última versió: [VoleiSantpedor.apk](https://github.com/dpericas/voleimanagerV/raw/main/VoleiSantpedor.apk)
 (les apps instal·lades s'actualitzen soles: avisen en obrir-les).
 
+## 01.30.00 — 2026-11-20
+Sol·licituds de membres estables, Android Auto, lliscar entre pestanyes i partits d'avui
+
 ## 01.29.00 — 2026-11-19
 Marcador animat, Pili animada, aparences i sons
 
