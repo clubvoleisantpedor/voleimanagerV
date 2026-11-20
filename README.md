@@ -3,6 +3,9 @@
 Descarrega l'última versió: [VoleiSantpedor.apk](https://github.com/dpericas/voleimanagerV/raw/main/VoleiSantpedor.apk)
 (les apps instal·lades s'actualitzen soles: avisen en obrir-les).
 
+## 01.31.00 — 2026-11-20
+Manual de l'app (app, web i PDF)
+
 ## 01.30.01 — 2026-11-20
 «Sobre l'app» de Preferències ben distribuït
 
