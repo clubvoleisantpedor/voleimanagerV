@@ -3,6 +3,9 @@
 Descarrega l'última versió: [VoleiSantpedor.apk](https://github.com/dpericas/voleimanagerV/raw/main/VoleiSantpedor.apk)
 (les apps instal·lades s'actualitzen soles: avisen en obrir-les).
 
+## 01.32.00 — 2026-11-20
+Club abans que Marcador a la barra inferior
+
 ## 01.31.01 — 2026-11-20
 «Jugadors/es i famílies» per equips i manual actualitzat
 
