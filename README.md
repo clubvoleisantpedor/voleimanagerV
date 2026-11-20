@@ -3,6 +3,9 @@
 Descarrega l'última versió: [VoleiSantpedor.apk](https://github.com/dpericas/voleimanagerV/raw/main/VoleiSantpedor.apk)
 (les apps instal·lades s'actualitzen soles: avisen en obrir-les).
 
+## 01.35.00 — 2026-11-20
+Desa el progrés dels jocs amb un codi; jocs també al web
+
 ## 01.34.01 — 2026-11-20
 Tothom comença de zero; 5 estrelles per joc i cal la segona per avançar
 
