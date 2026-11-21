@@ -3,6 +3,9 @@
 Descarrega l'última versió: [VoleiSantpedor.apk](https://github.com/dpericas/voleimanagerV/raw/main/VoleiSantpedor.apk)
 (les apps instal·lades s'actualitzen soles: avisen en obrir-les).
 
+## 01.37.00 — 2026-11-21
+Convocatòries, telèfons del cotxe i adjunts només per a l'equip
+
 ## 01.36.00 — 2026-11-21
 Directes signats; resultats i avisos web protegits; política de privacitat
 
