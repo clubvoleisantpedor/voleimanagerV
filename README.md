@@ -3,6 +3,9 @@
 Descarrega l'última versió: [VoleiSantpedor.apk](https://github.com/dpericas/voleimanagerV/raw/main/VoleiSantpedor.apk)
 (les apps instal·lades s'actualitzen soles: avisen en obrir-les).
 
+## 01.39.00 — 2026-11-21
+Sorpreses amagades, locutor del directe i la Pili segons el temps
+
 ## 01.38.00 — 2026-11-21
 Correu verificat, regles més estrictes, còpies i enllaços segurs
 
