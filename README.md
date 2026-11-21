@@ -3,6 +3,9 @@
 Descarrega l'última versió: [VoleiSantpedor.apk](https://github.com/dpericas/voleimanagerV/raw/main/VoleiSantpedor.apk)
 (les apps instal·lades s'actualitzen soles: avisen en obrir-les).
 
+## 01.36.00 — 2026-11-21
+Directes signats; resultats i avisos web protegits; política de privacitat
+
 ## 01.35.02 — 2026-11-21
 Català per defecte; benvinguda per a entrenadors i junta; resum dels partits acabats
 
