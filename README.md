@@ -3,6 +3,9 @@
 Descarrega l'última versió: [VoleiSantpedor.apk](https://github.com/dpericas/voleimanagerV/raw/main/VoleiSantpedor.apk)
 (les apps instal·lades s'actualitzen soles: avisen en obrir-les).
 
+## 01.39.01 — 2026-11-21
+Cromos de la Pili; Android Auto tret
+
 ## 01.39.00 — 2026-11-21
 Sorpreses amagades, locutor del directe i la Pili segons el temps
 
