@@ -3,6 +3,9 @@
 Descarrega l'última versió: [VoleiSantpedor.apk](https://github.com/dpericas/voleimanagerV/raw/main/VoleiSantpedor.apk)
 (les apps instal·lades s'actualitzen soles: avisen en obrir-les).
 
+## 01.41.00 — 2026-11-22
+Rendiment (salt, serveis, com estàs?), pissarra tàctica, imatges per compartir, vull provar el vòlei, objectes perduts, fotos a les comandes i beatbox de la Pili.
+
 ## 01.40.00 — 2026-11-22
 Menys bateria (avisos de directes només els dies de partit, comprovacions cada 30 min i amb menys dades), agenda amb missatge correcte per als teus equips i so al vídeo d'inici.
 
