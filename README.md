@@ -3,6 +3,9 @@
 Descarrega l'última versió: [VoleiSantpedor.apk](https://github.com/dpericas/voleimanagerV/raw/main/VoleiSantpedor.apk)
 (les apps instal·lades s'actualitzen soles: avisen en obrir-les).
 
+## 01.44.00 — 2026-11-23
+Les estadístiques anònimes només s'envien si hi dones permís. Límits d'enviament a «Vull provar» i objectes perduts.
+
 ## 01.43.01 — 2026-11-23
 «El meu equip» mostra amb quin rol hi ets a cada equip.
 
