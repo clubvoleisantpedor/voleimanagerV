@@ -3,6 +3,9 @@
 Descarrega l'última versió: [VoleiSantpedor.apk](https://github.com/dpericas/voleimanagerV/raw/main/VoleiSantpedor.apk)
 (les apps instal·lades s'actualitzen soles: avisen en obrir-les).
 
+## 01.42.00 — 2026-11-23
+Privacitat: les plantilles (noms i fotos) ja no van dins l'app; només les veuen els membres aprovats del club i els entrenadors. L'app pesa gairebé 5 MB menys.
+
 ## 01.41.00 — 2026-11-22
 Rendiment (salt, serveis, com estàs?), pissarra tàctica, imatges per compartir, vull provar el vòlei, objectes perduts, fotos a les comandes i beatbox de la Pili.
 
