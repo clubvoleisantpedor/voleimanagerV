@@ -3,6 +3,9 @@
 Descarrega l'última versió: [VoleiSantpedor.apk](https://github.com/dpericas/voleimanagerV/raw/main/VoleiSantpedor.apk)
 (les apps instal·lades s'actualitzen soles: avisen en obrir-les).
 
+## 01.43.00 — 2026-11-23
+A cada equip pots ser jugador/a o família. Nou codi per connectar un altre dispositiu (web o un altre mòbil) sense tornar-ho a demanar.
+
 ## 01.42.00 — 2026-11-23
 Privacitat: les plantilles (noms i fotos) ja no van dins l'app; només les veuen els membres aprovats del club i els entrenadors. L'app pesa gairebé 5 MB menys.
 
