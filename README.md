@@ -3,6 +3,9 @@
 Descarrega l'última versió: [VoleiSantpedor.apk](https://github.com/dpericas/voleimanagerV/raw/main/VoleiSantpedor.apk)
 (les apps instal·lades s'actualitzen soles: avisen en obrir-les).
 
+## 01.43.01 — 2026-11-23
+«El meu equip» mostra amb quin rol hi ets a cada equip.
+
 ## 01.43.00 — 2026-11-23
 A cada equip pots ser jugador/a o família. Nou codi per connectar un altre dispositiu (web o un altre mòbil) sense tornar-ho a demanar.
 
