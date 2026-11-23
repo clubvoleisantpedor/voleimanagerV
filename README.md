@@ -3,6 +3,9 @@
 Descarrega l'última versió: [VoleiSantpedor.apk](https://github.com/dpericas/voleimanagerV/raw/main/VoleiSantpedor.apk)
 (les apps instal·lades s'actualitzen soles: avisen en obrir-les).
 
+## 01.45.00 — 2026-11-23
+Agenda més ràpida i amb menys trànsit a la federació, progrés dels jocs en enllaçar dispositius, menys bateria i recordatori «Com ha anat l'entreno?».
+
 ## 01.44.00 — 2026-11-23
 Les estadístiques anònimes només s'envien si hi dones permís. Límits d'enviament a «Vull provar» i objectes perduts.
 
