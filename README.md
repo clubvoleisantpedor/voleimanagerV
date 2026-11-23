@@ -3,6 +3,9 @@
 Descarrega l'última versió: [VoleiSantpedor.apk](https://github.com/dpericas/voleimanagerV/raw/main/VoleiSantpedor.apk)
 (les apps instal·lades s'actualitzen soles: avisen en obrir-les).
 
+## 01.49.00 — 2026-11-23
+Seguiment i renovació d'invitacions, canvi de temporada, sala secreta al web
+
 ## 01.48.01 — 2026-11-23
 Ritme de l'afició: comença tranquil i va pujant, més precís i amb so de bombo. La Cursa de la Pili del camí secret es complica a mesura que avances.
 
