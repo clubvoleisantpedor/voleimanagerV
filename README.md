@@ -3,6 +3,9 @@
 Descarrega l'última versió: [VoleiSantpedor.apk](https://github.com/dpericas/voleimanagerV/raw/main/VoleiSantpedor.apk)
 (les apps instal·lades s'actualitzen soles: avisen en obrir-les).
 
+## 01.47.01 — 2026-11-23
+«Imatges per compartir» només per a entrenadors, junta i administradors. «Vull provar el vòlei» sempre visible als editors.
+
 ## 01.47.00 — 2026-11-23
 Jocs: icona a Club, pausa i tutorial de la Pili, rànquing del mes, puntuacions impossibles refusades i lliga només per a membres. Pestanya Club reorganitzada en seccions amb la targeta «El meu equip».
 
