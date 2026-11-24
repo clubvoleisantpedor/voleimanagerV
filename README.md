@@ -3,6 +3,9 @@
 Descarrega l'última versió: [VoleiSantpedor.apk](https://github.com/dpericas/voleimanagerV/raw/main/VoleiSantpedor.apk)
 (les apps instal·lades s'actualitzen soles: avisen en obrir-les).
 
+## 01.50.00 — 2026-11-24
+Avisos amb format de WhatsApp i «Signa com», noms d'equip curts, avís d'hora confirmada
+
 ## 01.49.02 — 2026-11-24
 «Qui ets?» permet diversos perfils; «Només segueixo el club» va sola
 
