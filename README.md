@@ -3,6 +3,9 @@
 Descarrega l'última versió: [VoleiSantpedor.apk](https://github.com/dpericas/voleimanagerV/raw/main/VoleiSantpedor.apk)
 (les apps instal·lades s'actualitzen soles: avisen en obrir-les).
 
+## 01.51.00 — 2026-11-25
+Dispositius enllaçats per sempre («Els meus dispositius» i importació a la benvinguda), avisos del club plegats amb comptador, marcador per passos, la Pili amb energia, neteja, forma i inventari, paraigües més visible.
+
 ## 01.50.00 — 2026-11-24
 Avisos amb format de WhatsApp i «Signa com», noms d'equip curts, avís d'hora confirmada
 
