@@ -1,7 +1,10 @@
 # App Vòlei Santpedor — versions
 
-Descarrega l'última versió: [VoleiSantpedor.apk](https://github.com/dpericas/voleimanagerV/raw/main/VoleiSantpedor.apk)
+Descarrega l'última versió: [VoleiSantpedor.apk](https://github.com/clubvoleisantpedor/voleimanagerV/raw/main/VoleiSantpedor.apk)
 (les apps instal·lades s'actualitzen soles: avisen en obrir-les).
+
+## 01.55.00 — 2026-11-26
+El web del club té adreça nova: clubvoleisantpedor.github.io. L'adreça d'abans porta sola a la nova.
 
 ## 01.54.00 — 2026-11-26
 Avís de canvi d'hora o de dia; fitxes d'entrenament i biblioteca d'exercicis; missatge setmanal per equip; la Pili amb calendari de festes, avís suau, trofeu al web, adhesius guanyats i reacció als resultats; més coses compartides entre dispositius; estadístiques noves.
