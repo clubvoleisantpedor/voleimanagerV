@@ -3,6 +3,9 @@
 Descarrega l'última versió: [VoleiSantpedor.apk](https://github.com/clubvoleisantpedor/voleimanagerV/raw/main/VoleiSantpedor.apk)
 (les apps instal·lades s'actualitzen soles: avisen en obrir-les).
 
+## 01.55.01 — 2026-11-26
+Botó del cartell per imprimir (A4) al Codi QR de l'app.
+
 ## 01.55.00 — 2026-11-26
 El web del club té adreça nova: clubvoleisantpedor.github.io. L'adreça d'abans porta sola a la nova.
 
