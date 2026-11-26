@@ -3,6 +3,9 @@
 Descarrega l'última versió: [VoleiSantpedor.apk](https://github.com/dpericas/voleimanagerV/raw/main/VoleiSantpedor.apk)
 (les apps instal·lades s'actualitzen soles: avisen en obrir-les).
 
+## 01.53.01 — 2026-11-26
+Adhesius de WhatsApp amb la Pili verda i negra i 8 de nous; el separador de «Propers partits» només entre dies.
+
 ## 01.53.00 — 2026-11-26
 Estadístiques amb seccions, web i iPhone, respostes per equip i resum mensual; separador a cada dia del missatge de propers partits; «El meu equip» plegable; la Pili de Club torna a fer trucs, pessigolles i beatbox.
 
