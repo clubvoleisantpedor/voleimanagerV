@@ -3,6 +3,9 @@
 Descarrega l'última versió: [VoleiSantpedor.apk](https://github.com/clubvoleisantpedor/voleimanagerV/raw/main/VoleiSantpedor.apk)
 (les apps instal·lades s'actualitzen soles: avisen en obrir-les).
 
+## 01.57.01 — 2026-11-28
+Propers partits: es fan les imatges que calgui perquè no quedi cap partit fora. La bufanda de la Pili, ben embolicada.
+
 ## 01.57.00 — 2026-11-27
 Entrenadors/es: les vostres eines són a Club › Entrenadors i junta (ruleta, pissarra, entrenaments, imatges, volen provar el vòlei, missatge ràpid i plantilles). La Zona d'editors i l'Administració queden per a la junta.
 
