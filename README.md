@@ -3,6 +3,9 @@
 Descarrega l'última versió: [VoleiSantpedor.apk](https://github.com/clubvoleisantpedor/voleimanagerV/raw/main/VoleiSantpedor.apk)
 (les apps instal·lades s'actualitzen soles: avisen en obrir-les).
 
+## 01.56.00 — 2026-11-27
+Plantilla dels Màsters des del club; fitxes d'entrenament com a imatge o PDF; estat de la configuració a l'administració.
+
 ## 01.55.01 — 2026-11-26
 Botó del cartell per imprimir (A4) al Codi QR de l'app.
 
