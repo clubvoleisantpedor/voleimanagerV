@@ -3,6 +3,9 @@
 Descarrega l'última versió: [VoleiSantpedor.apk](https://github.com/clubvoleisantpedor/voleimanagerV/raw/main/VoleiSantpedor.apk)
 (les apps instal·lades s'actualitzen soles: avisen en obrir-les).
 
+## 01.56.02 — 2026-11-27
+Imatges per compartir: Propers partits, avisos, activitats i horaris. Jugadors/es i famílies agrupats per persona. Fitxa dels partits amistosos. Confirmació en sortir de la Zona d'editors. Ruleta: Forma 2 equips. Pissarra tàctica a pantalla completa.
+
 ## 01.56.01 — 2026-11-27
 Avisos web immediats i missatge de WhatsApp de cada partit per als editors.
 
