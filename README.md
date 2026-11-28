@@ -3,6 +3,9 @@
 Descarrega l'última versió: [VoleiSantpedor.apk](https://github.com/clubvoleisantpedor/voleimanagerV/raw/main/VoleiSantpedor.apk)
 (les apps instal·lades s'actualitzen soles: avisen en obrir-les).
 
+## 01.57.02 — 2026-11-28
+Un partit, una retransmissió (la junta la pot aturar). En començar el partit pregunta si es retransmet. Estadístiques a la imatge del resultat. Alineacions, acta i acta oficial dels partits acabats. Resultats per WhatsApp sense enllaços.
+
 ## 01.57.01 — 2026-11-28
 Propers partits: es fan les imatges que calgui perquè no quedi cap partit fora. La bufanda de la Pili, ben embolicada.
 
